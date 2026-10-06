@@ -2,6 +2,10 @@
 
 BackITUp is a Windows desktop folder backup utility built with C# and .NET 8 Windows Forms. Copy multiple source folders to a local folder, mapped drive, or network share, on demand or at a repeating interval while the app is running.
 
+## Download
+
+Get the self-contained Windows x64 executable from [the latest GitHub release](https://github.com/Supersample-Labs/BackITUp/releases/latest). Download BackITUp.exe from the release assets and run it; no separate .NET installation is required.
+
 ## Features
 
 - Multiple source folders and one destination, including UNC paths such as `\\SERVER\Share\Backups`.
@@ -103,3 +107,4 @@ dotnet run --project Tools/IconBuilder/IconBuilder.csproj -- Assets/AppIcon.ico
 ## License
 
 Licensed under the [MIT License](LICENSE).
+
