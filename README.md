@@ -99,3 +99,7 @@ To regenerate the icon on Windows:
 ```powershell
 dotnet run --project Tools/IconBuilder/IconBuilder.csproj -- Assets/AppIcon.ico
 ```
+
+## License
+
+Licensed under the [MIT License](LICENSE).
