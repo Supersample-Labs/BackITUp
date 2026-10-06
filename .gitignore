@@ -1,0 +1,16 @@
+# .NET build and publish output
+**/bin/
+**/obj/
+publish/
+
+# Local IDE settings
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local credentials
+.env
+.env.*
+!.env.example
+.aws/
